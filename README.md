@@ -12,7 +12,7 @@
 
 
 '''
-This is a XGBoost regression model to predict the number of orders in the future
+This is a Deployment (web API) for XGBoost regression model to predict the number of orders in the future
 Dataset:
 Forecasting Template.xlsx, which contains the zone or the location of the orders and the time or intervals by hours for each order in Saudi Arabia.
 
